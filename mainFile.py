@@ -15,8 +15,6 @@ from tkinter.scrolledtext import *
 import time
 import sys
 
-import help_menu
-
 
 class Edit():
     def popup(self, event):
